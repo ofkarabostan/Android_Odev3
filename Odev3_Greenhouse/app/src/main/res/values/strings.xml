@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Green</string>
+    <string name="sicaklik">Temperature</string>
+    <string name="nem">Humidity</string>
+    <string name="pencere">Windows</string>
+    <string name="kapi">Door</string>
+    <string name="isiklar">Light</string>
+    <string name="isiticilar">Heater</string>
+</resources>

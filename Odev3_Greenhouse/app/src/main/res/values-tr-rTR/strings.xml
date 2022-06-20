@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Green</string>
+    <string name="sicaklik">Sıcaklık</string>
+    <string name="nem">Nem</string>
+    <string name="pencere">Pencereler</string>
+    <string name="kapi">Kapı</string>
+    <string name="isiklar">Işıklar</string>
+    <string name="isiticilar">Isıtıcı</string>
+</resources>
